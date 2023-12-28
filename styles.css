@@ -1,0 +1,13 @@
+.div_photo {
+  border-radius: 50%;
+  justify-content: center;
+  width: 430px;
+  height: 630px;
+  background-position: 50% 100%;
+  margin: 60px auto 0;
+  border-radius: 50%;
+}
+
+.it_alic {
+  margin: -15% -15000%;
+}
